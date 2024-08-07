@@ -1,0 +1,18 @@
+{
+  "CheckEnabled": true,
+  "CheckFrequency": 30,
+  "Delay": 300,
+  "VkUrl": "https://vk.com/my_group",
+  "VkLogin": "login",
+  "VkPassword": "passwd",
+  "TelegramUrl": "https://t.me/my_channel",
+  "ExportParams": {    
+    "Text": true,
+    "Links": true,
+    "Images": true,
+    "Videos": false,
+    "Audio": true,
+    "Documents": true,
+    "Articles": true
+  }
+}

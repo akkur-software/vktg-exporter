@@ -1,0 +1,8 @@
+.vs/
+temp/
+bin/
+binaries/
+obj/
+interm/
+TestResults/
+examples/
